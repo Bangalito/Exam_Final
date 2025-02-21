@@ -1,2 +1,3 @@
 ## Contribution  
-Pour contribuer, créez une branche et ouvrez une pull request avec des détails.
+Pour contribuer, créez une branche et ouvrez une pull request après revue.
+
