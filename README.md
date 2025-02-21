@@ -1,3 +1,2 @@
 ## Contribution  
-Merci de soumettre vos suggestions directement via une pull request.  
-
+Pour contribuer, créez une branche et ouvrez une pull request avec des détails.
