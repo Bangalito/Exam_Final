@@ -1,3 +1,2 @@
 ## Contribution  
-Merci de soumettre vos suggestions directement via une pull request.  
-
+Merci d’envoyer vos propositions via une pull request après revue.
